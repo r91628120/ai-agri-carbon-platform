@@ -1,0 +1,22 @@
+[
+  {
+    "id": "rice",
+    "name": "水稻"
+  },
+  {
+    "id": "mango",
+    "name": "芒果"
+  },
+  {
+    "id": "banana",
+    "name": "香蕉"
+  },
+  {
+    "id": "tea",
+    "name": "茶葉"
+  },
+  {
+    "id": "coffee",
+    "name": "咖啡"
+  }
+]

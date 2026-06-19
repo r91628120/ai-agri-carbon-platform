@@ -1,0 +1,11 @@
+{
+  "id": "rice-case-001",
+  "title": "水稻碳排案例",
+  "crop": "水稻",
+  "area": 1,
+  "fertilizer": 500,
+  "diesel": 200,
+  "electricity": 300,
+  "result": 2.45,
+  "suggestion": "減少化肥使用，增加綠肥"
+}

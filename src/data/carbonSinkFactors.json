@@ -1,0 +1,26 @@
+[
+  {
+    "crop": "芒果",
+    "carbonSink": 1.2
+  },
+  {
+    "crop": "香蕉",
+    "carbonSink": 1.0
+  },
+  {
+    "crop": "茶園",
+    "carbonSink": 1.5
+  },
+  {
+    "crop": "咖啡",
+    "carbonSink": 1.8
+  },
+  {
+    "crop": "竹林",
+    "carbonSink": 5.0
+  },
+  {
+    "crop": "森林",
+    "carbonSink": 8.0
+  }
+]
