@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://r91628120.github.io/ai-agri-carbon-platform/sitemap.xml
